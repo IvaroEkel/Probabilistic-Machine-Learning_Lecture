@@ -18,7 +18,7 @@ By the end of the course, students should:
 - Train probabilistic deep neural networks using modern optimization techniques.
 
 
-📅 Course Schedule
+📅 # Course Schedule
 Week 1: Introduction
 
     * Overview of probabilistic modeling in ML
