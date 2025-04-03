@@ -5,9 +5,24 @@ Notes and colab notebooks for the course on Probabilistic Machine Learning at th
 
 By the end of the course, students should:
 
--Understand the probabilistic foundations of machine learning.
--Distinguish between frequentist and Bayesian inference methods.
--Implement and analyze regression models (linear and nonlinear).
--Apply probabilistic graphical models, including inference algorithms.
--Understand variational methods and apply them in deep learning contexts.
--Train probabilistic deep neural networks using modern optimization techniques.
+  Understand the probabilistic foundations of machine learning.
+  
+  Distinguish between frequentist and Bayesian inference methods.
+  
+  Implement and analyze regression models (linear and nonlinear).
+  
+  Apply probabilistic graphical models, including inference algorithms.
+  
+  Understand variational methods and apply them in deep learning contexts.
+  
+  Train probabilistic deep neural networks using modern optimization techniques.
+
+
+📅 Course Schedule
+Week 1: Introduction
+
+    Overview of probabilistic modeling in ML
+
+    Probability review: Bayesian vs. Frequentist interpretation
+
+    Maximum Likelihood Estimation (MLE)
