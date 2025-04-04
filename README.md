@@ -25,4 +25,8 @@ Week 1: Introduction
 
     * Probability review: Bayesian vs. Frequentist interpretation
 
+    * Linear regression
+
     * Maximum Likelihood Estimation (MLE)
+
+    * ...
