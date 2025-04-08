@@ -1,6 +1,8 @@
 # Probabilistic-Machine-Learning_Lecture
 Notes and colab notebooks for the course on Probabilistic Machine Learning at the University of Leipzig. Part of the Master's degree on Data Science.
 
+# Lecture notes [here]() (to be uploaded soon, and progressively updated).
+
 ## Course Objectives
 
 By the end of the course, students should:
