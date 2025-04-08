@@ -25,7 +25,7 @@ By the end of the course, students should:
 
     * Probability review: Bayesian vs. Frequentist interpretation
 
-### Week 2: [Fundamental methods]() 
+### Week 2: [Fundamental methods 1]() 
 
     * Linear regression
 
