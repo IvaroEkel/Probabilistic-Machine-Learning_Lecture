@@ -1,7 +1,7 @@
 # Probabilistic-Machine-Learning_Lecture
 Notes and colab notebooks for the course on Probabilistic Machine Learning at the University of Leipzig. Part of the Master's degree on Data Science.
 
-# Course Objectives
+## Course Objectives
 
 By the end of the course, students should:
 
@@ -18,15 +18,18 @@ By the end of the course, students should:
 - Train probabilistic deep neural networks using modern optimization techniques.
 
 
-# 📅 Course Schedule
-Week 1: Introduction
+## 📅 Course Schedule, progressively updated.
+### Week 1: [Introduction](https://docs.google.com/presentation/d/1a0wVymfm430GrHAdf4CXsHHTYLapdqjrW0NQ4rI1Zbk/edit?usp=sharing)
 
-    * Overview of probabilistic modeling in ML
+    * Overview of the mathematical definition of probability in terms of measures and sigma algebras.
 
     * Probability review: Bayesian vs. Frequentist interpretation
+
+### Week 2: [Fundamental methods]() 
 
     * Linear regression
 
     * Maximum Likelihood Estimation (MLE)
 
     * ...
+
