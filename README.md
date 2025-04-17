@@ -23,7 +23,7 @@ By the end of the course, students should:
 ## 📅 Course Schedule, progressively updated.
 ### Week 1: Introduction [[Slides]](https://docs.google.com/presentation/d/1a0wVymfm430GrHAdf4CXsHHTYLapdqjrW0NQ4rI1Zbk/edit?usp=sharing)
 
-    * Overview of the mathematical definition of probability in terms of measures and sigma algebras.
+    * Overview of the mathematical definition of probability in terms of measures over sigma algebras.
 
     * Probability review: Bayesian vs. Frequentist interpretation
 
