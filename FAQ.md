@@ -1,4 +1,4 @@
-Frequently asked questions about the contents, organization and development of the lecture and/or the repository. 
+# Frequently asked questions about the contents, organization and development of the lecture and/or the repository. 
 
   - Is there literature you recommend for increasing math & statistics knowledge (if possible divided into levels from beginner to expert)?
   - Will the project be in a group or alone?
