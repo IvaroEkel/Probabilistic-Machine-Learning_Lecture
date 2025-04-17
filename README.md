@@ -36,7 +36,7 @@ By the end of the course, students should:
     * ...
 
 
-# Further Questions? Please submit them using [this form](https://cloud.scadsai.uni-leipzig.de/index.php/apps/forms/s/aqG6wrnoWtqSHXb65PrEHHTr). The questions and answers are published in the FAQ (click below).
+# Further Questions? Please submit them using [this form](https://cloud.scadsai.uni-leipzig.de/index.php/apps/forms/s/aqG6wrnoWtqSHXb65PrEHHTr). The questions and answers are published in the FAQ (link below).
 
 # [FAQ - Frequently Asked Questions](https://github.com/IvaroEkel/Probabilistic-Machine-Learning_Lecture/blob/cd893a2230238b122c4a2a9cc459edde17371eba/FAQ.md)
 
