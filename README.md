@@ -38,12 +38,6 @@ By the end of the course, students should:
 
 # Questions? Please submit them using [this form](https://cloud.scadsai.uni-leipzig.de/index.php/apps/forms/s/aqG6wrnoWtqSHXb65PrEHHTr)
 
-# FAQ - Frequently Asked Questions:
-
-  - Is there literature you recommend for increasing math & statistics knowledge (if possible divided into levels from beginner to expert)? 
-  - Will the project be in a group or alone? 
-  - Are there some basic requirements a project should have? 
-  - Will you give a list of projects that we can choose from if we can't think of one on our own? 
-  - When is the written report due and how many pages should that be?  
+# [FAQ - Frequently Asked Questions](https://github.com/IvaroEkel/Probabilistic-Machine-Learning_Lecture/blob/cd893a2230238b122c4a2a9cc459edde17371eba/FAQ.md)
 
 
