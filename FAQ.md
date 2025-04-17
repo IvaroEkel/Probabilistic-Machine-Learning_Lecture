@@ -6,6 +6,6 @@
     - Intermediate:
     - Advanced:
 ## **Q: Will the project be in a group or alone?**
-  - Are there some basic requirements a project should have?
-  - Will you give a list of projects that we can choose from if we can't think of one on our own?
-  - When is the written report due and how many pages should that be?  
+## **Q: Are there some basic requirements a project should have?**
+## **Q: Will you give a list of projects that we can choose from if we can't think of one on our own?**
+## **Q: When is the written report due and how many pages should that be?**
