@@ -27,13 +27,14 @@ By the end of the course, students should:
 
     * Probability review: Bayesian vs. Frequentist interpretation
 
-### Week 2: Fundamental methods 1 [[Slides]]() 
+### Week 2: Fundamental models and methods 1 [[Slides]]() 
 
     * Linear regression
 
     * Maximum Likelihood Estimation (MLE)
+    
 
-    * ...
+### Week 3: Fundamental models and methods 2 [[Slides]]()
 
 
 # Further Questions? Please submit them using [this form](https://cloud.scadsai.uni-leipzig.de/index.php/apps/forms/s/aqG6wrnoWtqSHXb65PrEHHTr). The questions and answers are published in the FAQ (link below).
