@@ -17,7 +17,7 @@ By the end of the course, students should:
   
 - Understand variational methods and apply them in deep learning contexts.
   
-- Train probabilistic deep neural networks using modern optimization techniques.
+- Train deep neural networks using modern optimization techniques.
 
 
 ## 📅 Course Schedule, progressively updated.
