@@ -6,8 +6,8 @@ Notes and colab notebooks for the course on Probabilistic Machine Learning at th
 # Project ideas.
 
 Some freely available and interesting datasets:
-    - Statistisches Bundesamt: https://www.destatis.de/DE/Home/_inhalt.html
-    - 10xgenomics: https://www.10xgenomics.com/datasets?configure%5BhitsPerPage%5D=50&configure%5BmaxValuesPerFacet%5D=1000
+    - Statistisches Bundesamt: [link](https://www.destatis.de/DE/Home/_inhalt.html)
+    - 10xgenomics: [lnik](https://www.10xgenomics.com/datasets?configure%5BhitsPerPage%5D=50&configure%5BmaxValuesPerFacet%5D=1000)
 
 
 ## Course Objectives
