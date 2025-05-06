@@ -3,6 +3,13 @@ Notes and colab notebooks for the course on Probabilistic Machine Learning at th
 
 # Lecture notes [here](https://drive.google.com/drive/folders/1j7gkEYXaCap3xLlUoXHxi9vUxrTQ-Z_0?usp=drive_link) (progressively updated, check often).
 
+# Project ideas.
+
+Some freely available and interesting datasets:
+    - Statistisches Bundesamt: https://www.destatis.de/DE/Home/_inhalt.html
+    - 10xgenomics: https://www.10xgenomics.com/datasets?configure%5BhitsPerPage%5D=50&configure%5BmaxValuesPerFacet%5D=1000
+
+
 ## Course Objectives
 
 By the end of the course, students should:
