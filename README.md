@@ -2,6 +2,7 @@
 Notes and colab notebooks for the course on Probabilistic Machine Learning at the University of Leipzig. Part of the Master's degree on Data Science.
 
 # Lecture notes [here](https://drive.google.com/drive/folders/1j7gkEYXaCap3xLlUoXHxi9vUxrTQ-Z_0?usp=drive_link) (progressively updated, check often).
+# Slides [here](https://drive.google.com/drive/folders/1c_jzsbBfxUJ4liPvTVpDsGAfjhJK7azM?usp=drive_link)
 
 # Project repository [here](https://github.com/IvaroEkel/Probabilistic-Machine-Learning_lecture-PROJECTS/)
 
@@ -30,20 +31,19 @@ By the end of the course, students should:
 
 
 ## 📅 Course Schedule, progressively updated.
-### Week 1: Introduction [[Slides]](https://docs.google.com/presentation/d/15pFVypBnxA93y9JRPg8n3IzqDSWTCBn5NMYJn3cdxk8/edit?slide=id.g32b2470f7de_0_0#slide=id.g32b2470f7de_0_0)
+### 1 Introduction [[Slides]](https://docs.google.com/presentation/d/15pFVypBnxA93y9JRPg8n3IzqDSWTCBn5NMYJn3cdxk8/edit?slide=id.g32b2470f7de_0_0#slide=id.g32b2470f7de_0_0)
 
     * Overview of the mathematical definition of probability in terms of measures over sigma algebras.
 
     * Probability review: Bayesian vs. Frequentist interpretation
 
-### Week 2: Fundamental models and methods 1 [[Slides]]() 
+### Fundamental models and methods 1 [[Slides]]() 
 
     * Linear regression
 
-    * Maximum Likelihood Estimation (MLE)
     
 
-### Week 3: Fundamental models and methods 2 [[Slides]]()
+### Fundamental models and methods 2 [[Slides]](https://drive.google.com/file/d/1ILcVhL8adLvycJfArOglyi90KP1ym0Tg/view?usp=drive_link)
 
 
 # Further Questions? Please submit them using [this form](https://cloud.scadsai.uni-leipzig.de/index.php/apps/forms/s/aqG6wrnoWtqSHXb65PrEHHTr). The questions and answers are published in the FAQ (link below).
