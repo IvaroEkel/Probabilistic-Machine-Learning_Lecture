@@ -30,7 +30,7 @@ By the end of the course, students should:
 
 
 ## 📅 Course Schedule, progressively updated.
-### Week 1: Introduction [[Slides]](https://docs.google.com/presentation/d/1a0wVymfm430GrHAdf4CXsHHTYLapdqjrW0NQ4rI1Zbk/edit?usp=sharing)
+### Week 1: Introduction [[Slides]]([https://docs.google.com/presentation/d/1a0wVymfm430GrHAdf4CXsHHTYLapdqjrW0NQ4rI1Zbk/edit?usp=sharing](https://docs.google.com/presentation/d/15pFVypBnxA93y9JRPg8n3IzqDSWTCBn5NMYJn3cdxk8/edit?usp=sharing))
 
     * Overview of the mathematical definition of probability in terms of measures over sigma algebras.
 
