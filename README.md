@@ -22,7 +22,7 @@ By the end of the course, students should:
 - Distinguish between frequentist and Bayesian inference methods.
   
 - Implement and analyze a variety of Machine Learning tasks, using models/methods such as:
-      - Generalized Additive/Linear Models (GAMs/GLMs)
+-     - Generalized Additive/Linear Models (GAMs/GLMs)
       - Gaussian Mixture Models
       - Gaussian Discriminant Analysis
       
