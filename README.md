@@ -36,14 +36,12 @@ By the end of the course, students should:
     * Overview of the mathematical definition of probability in terms of measures over sigma algebras.
 
     * Probability review: Bayesian vs. Frequentist interpretation
-
-### Fundamental models and methods 1 [[Slides]]() 
-
-    * Linear regression
-
     
+### Fundamental models and methods [[Slides]](https://drive.google.com/file/d/1ILcVhL8adLvycJfArOglyi90KP1ym0Tg/view?usp=drive_link)
 
-### Fundamental models and methods 2 [[Slides]](https://drive.google.com/file/d/1ILcVhL8adLvycJfArOglyi90KP1ym0Tg/view?usp=drive_link)
+#### Generalized Linear Models [[Slides]](https://drive.google.com/file/d/1Oewk8yIM1SWAkGNTFXB4W6uu9j4X0O4N/view?usp=drive_link)
+
+#### Gaussian Mixture Models [[Slides]](https://drive.google.com/file/d/1Kc1o8a7FPs8OWfF1u-AN1TYwxmhhPVkD/view?usp=drive_link)
 
 
 # Further Questions? Please submit them using [this form](https://cloud.scadsai.uni-leipzig.de/index.php/apps/forms/s/aqG6wrnoWtqSHXb65PrEHHTr). The questions and answers are published in the FAQ (link below).
