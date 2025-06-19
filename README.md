@@ -21,13 +21,12 @@ By the end of the course, students should:
   
 - Distinguish between frequentist and Bayesian inference methods.
   
-- Implement and analyze regression models (linear and nonlinear).
+- Implement and analyze a variety of Machine Learning tasks, using models/methods such as:
+      - Generalized Additive/Linear Models (GAMs/GLMs)
+      - Gaussian Mixture Models
+      - Gaussian Discriminant Analysis
+      
   
-- Apply probabilistic graphical models, including inference algorithms.
-  
-- Understand variational methods and apply them in deep learning contexts.
-  
-- Train deep neural networks using modern optimization techniques.
 
 
 ## 📅 Course Schedule, progressively updated.
