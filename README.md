@@ -1,7 +1,7 @@
 # Probabilistic-Machine-Learning_Lecture
 Notes and colab notebooks for the course on Probabilistic Machine Learning at the University of Leipzig. Part of the Master's degree on Data Science.
 
-# Lecture notes [here](https://drive.google.com/drive/folders/1j7gkEYXaCap3xLlUoXHxi9vUxrTQ-Z_0?usp=drive_link) (progressively updated, check often).
+# Lecture notes [here](https://drive.google.com/drive/folders/1j7gkEYXaCap3xLlUoXHxi9vUxrTQ-Z_0?usp=drive_link) (progressively updated, check often, also the slides).
 # Slides [here](https://drive.google.com/drive/folders/1c_jzsbBfxUJ4liPvTVpDsGAfjhJK7azM?usp=drive_link)
 
 # Project repository [here](https://github.com/IvaroEkel/Probabilistic-Machine-Learning_lecture-PROJECTS/)
