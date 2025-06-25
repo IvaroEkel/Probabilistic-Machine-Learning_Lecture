@@ -6,6 +6,10 @@ Notes and colab notebooks for the course on Probabilistic Machine Learning at th
 
 # Project repository [here](https://github.com/IvaroEkel/Probabilistic-Machine-Learning_lecture-PROJECTS/)
 
+# Recommended freely available references:
+
+    - [A first course on Machine Learning](https://raw.githubusercontent.com/wwkenwong/book/master/Simon%20Rogers%2C%20Mark%20Girolami%20A%20First%20Course%20in%20Machine%20Learning.pdf) 
+
 Some freely available and interesting datasets/sources:
 
     - Statistisches Bundesamt: [link](https://www.destatis.de/DE/Home/_inhalt.html)
