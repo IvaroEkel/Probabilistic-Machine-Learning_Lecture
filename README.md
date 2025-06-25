@@ -8,7 +8,8 @@ Notes and colab notebooks for the course on Probabilistic Machine Learning at th
 
 # Recommended freely available references:
 
-- [A first course on Machine Learning](https://raw.githubusercontent.com/wwkenwong/book/master/Simon%20Rogers%2C%20Mark%20Girolami%20A%20First%20Course%20in%20Machine%20Learning.pdf) 
+- Rogers and Girolami [A first course on Machine Learning](https://raw.githubusercontent.com/wwkenwong/book/master/Simon%20Rogers%2C%20Mark%20Girolami%20A%20First%20Course%20in%20Machine%20Learning.pdf)
+- Kevin Murphy [Probabilistic Machine Learning: An introduction](https://probml.github.io/pml-book/book1.html)
 
 Some freely available and interesting datasets/sources:
 
