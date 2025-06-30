@@ -57,8 +57,6 @@ By the end of the course, students should:
 #### Principal Component Analysis (wiht introduction to Probabilistic PCA) [[Slides]](https://drive.google.com/file/d/1eXQBe-3rR1X-l4b3tHuTYkRFtbDKp9Zc/view?usp=sharing)
 
 
-
-#----
 # Further Questions? Please submit them using [this form](https://cloud.scadsai.uni-leipzig.de/index.php/apps/forms/s/aqG6wrnoWtqSHXb65PrEHHTr). The questions and answers are published in the FAQ (link below).
 
 # [FAQ - Frequently Asked Questions](https://github.com/IvaroEkel/Probabilistic-Machine-Learning_Lecture/blob/cd893a2230238b122c4a2a9cc459edde17371eba/FAQ.md)
