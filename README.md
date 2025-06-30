@@ -41,7 +41,9 @@ By the end of the course, students should:
     * Overview of the mathematical definition of probability in terms of measures over sigma algebras.
 
     * Probability review: Bayesian vs. Frequentist interpretation
-    
+
+### The Probabilistic Framework in Machine Learning [[Slides]](https://drive.google.com/file/d/1m-YXeMWYAt3hNNKu8shwOF0MWb-QF0wL/view?usp=drive_link)
+
 ### Fundamental models and methods [[Slides]](https://drive.google.com/file/d/1ILcVhL8adLvycJfArOglyi90KP1ym0Tg/view?usp=drive_link)
 
 #### Generalized Linear Models [[Slides]](https://drive.google.com/file/d/1Oewk8yIM1SWAkGNTFXB4W6uu9j4X0O4N/view?usp=drive_link)
