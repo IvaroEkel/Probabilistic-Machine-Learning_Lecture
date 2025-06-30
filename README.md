@@ -50,8 +50,9 @@ By the end of the course, students should:
 
 #### Gaussian Mixture Models [[Slides]](https://drive.google.com/file/d/1Kc1o8a7FPs8OWfF1u-AN1TYwxmhhPVkD/view?usp=drive_link)
 
-#### Gaussian Discriminant Analysis [[Slides]]
+#### Gaussian Discriminant Analysis [[Slides]](https://drive.google.com/file/d/1GGC2C2w-asMDMZhi4eTiA8znaf7skKTI/view?usp=sharing)
 
+#### Principal Component Analysis (wiht introduction to Probabilistic PCA) [[Slides]](https://drive.google.com/file/d/1eXQBe-3rR1X-l4b3tHuTYkRFtbDKp9Zc/view?usp=sharing)
 
 # Further Questions? Please submit them using [this form](https://cloud.scadsai.uni-leipzig.de/index.php/apps/forms/s/aqG6wrnoWtqSHXb65PrEHHTr). The questions and answers are published in the FAQ (link below).
 
