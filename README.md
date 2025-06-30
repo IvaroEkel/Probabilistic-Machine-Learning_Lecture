@@ -36,7 +36,7 @@ By the end of the course, students should:
 
 
 ## 📅 Course content (progressively updated).
-### 1 Introduction [[Slides]](https://docs.google.com/presentation/d/15pFVypBnxA93y9JRPg8n3IzqDSWTCBn5NMYJn3cdxk8/edit?slide=id.g32b2470f7de_0_0#slide=id.g32b2470f7de_0_0)
+### Introduction [[Slides]](https://docs.google.com/presentation/d/15pFVypBnxA93y9JRPg8n3IzqDSWTCBn5NMYJn3cdxk8/edit?slide=id.g32b2470f7de_0_0#slide=id.g32b2470f7de_0_0)
 
     * Overview of the mathematical definition of probability in terms of measures over sigma algebras.
 
