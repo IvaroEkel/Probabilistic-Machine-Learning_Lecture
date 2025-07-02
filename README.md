@@ -56,6 +56,8 @@ By the end of the course, students should:
 
 #### Principal Component Analysis (wiht introduction to Probabilistic PCA) [[Slides]](https://drive.google.com/file/d/1eXQBe-3rR1X-l4b3tHuTYkRFtbDKp9Zc/view?usp=sharing)
 
+#### Probabilistic Principal Component Analysis [[Slides]](https://drive.google.com/file/d/1B3wMh05Y__vm1noIyQzhONaXWECFOAuQ/view?usp=drive_link)
+
 
 # Further Questions? Please submit them using [this form](https://cloud.scadsai.uni-leipzig.de/index.php/apps/forms/s/aqG6wrnoWtqSHXb65PrEHHTr). The questions and answers are published in the FAQ (link below).
 
